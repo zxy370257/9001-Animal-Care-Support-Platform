@@ -1,0 +1,30 @@
+[
+  {
+    "member_id": "NSW_829119",
+    "name": "UNA",
+    "birthday": "2001-05-04",
+    "state": "NSW",
+    "payment_method": "Credit Card"
+  },
+  {
+    "member_id": "NSW_106987",
+    "name": "faisal",
+    "birthday": "1992-04-21",
+    "state": "NSW",
+    "payment_method": "1234"
+  },
+  {
+    "member_id": "NSW_296945",
+    "name": "ZXY",
+    "birthday": "2001-05-04",
+    "state": "NSW",
+    "payment_method": "Credit Card"
+  },
+  {
+    "member_id": "NSW_306632",
+    "name": "1",
+    "birthday": "1111-11-11",
+    "state": "NSW",
+    "payment_method": "Credit Card"
+  }
+]

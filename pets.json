@@ -1,0 +1,42 @@
+[
+  {
+    "state": "New South Wales (NSW)",
+    "link": "https://rspcavic.org/adopt-a-pet/",
+    "description": "Adopt pets from RSPCA New South Wales. View available dogs, cats, and small animals across NSW."
+  },
+  {
+    "state": "Victoria (VIC)",
+    "link": "https://rspcavic.org/adopt-a-pet/",
+    "description": "Find pets for adoption through RSPCA Victoria. Browse shelters in Melbourne and regional VIC."
+  },
+  {
+    "state": "Queensland (QLD)",
+    "link": "https://rspcavic.org/adopt-a-pet/",
+    "description": "Adopt animals from RSPCA Queensland. Includes Brisbane Animal Care Campus and regional centres."
+  },
+  {
+    "state": "South Australia (SA)",
+    "link": "https://rspcavic.org/adopt-a-pet/",
+    "description": "Discover pets ready for adoption at RSPCA South Australia. Support local shelters and rescue animals."
+  },
+  {
+    "state": "Western Australia (WA)",
+    "link": "https://rspcavic.org/adopt-a-pet/",
+    "description": "Adopt a dog, cat, or rabbit from RSPCA Western Australia. Visit the Malaga Animal Care Centre or view online."
+  },
+  {
+    "state": "Tasmania (TAS)",
+    "link": "https://rspcavic.org/adopt-a-pet/",
+    "description": "Adopt pets from RSPCA Tasmania and help give animals a second chance at life."
+  },
+  {
+    "state": "Australian Capital Territory (ACT)",
+    "link": "https://rspcavic.org/adopt-a-pet/",
+    "description": "Adopt from RSPCA ACT in Weston Creek. Explore animals looking for loving homes in Canberra."
+  },
+  {
+    "state": "Northern Territory (NT)",
+    "link": "https://rspcavic.org/adopt-a-pet/",
+    "description": "Meet animals available for adoption through RSPCA Northern Territory in Berrimah."
+  }
+]
